@@ -79,19 +79,19 @@ Download Results
 ## 📸 Screenshots
 
 ### 🔹 Input PCB Image
-![Input PCB](screenshots/1.png)
+![Input PCB](1.png)
 
 ### 🔹 Defect Detection Output
-![Detection Output](screenshots/2.png)
+![Detection Output](2.png)
 
 ### 🔹 Annotated PCB with Bounding Boxes
-![Annotated PCB](screenshots/6.png)
+![Annotated PCB](6.png)
 
 ### 🔹 Defect Count & Location Table
-![Defect Table](screenshots/7.png)
+![Defect Table](7.png)
 
 ### 🔹 Streamlit / UI View
-![UI View](screenshots/8.png)
+![UI View](8.png)
 
 ---
 

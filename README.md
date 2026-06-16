@@ -149,16 +149,7 @@ Open Swagger Docs
 
 ---
 
-## 👨‍💻 Author
 
-**Prashant Yadav**  
-Computer Science (AI) Student  
-AI • Backend • System Integration  
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/prashant-yadav-638684298/
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=circuitguide&label=Project%20Views&color=0&pretty=true"/>
